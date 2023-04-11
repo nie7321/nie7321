@@ -16,5 +16,6 @@ jobs:
       - name: Pull in Blog Posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_names: "owlblog,microblog"
-          feed_list: "https://godless-internets.org/feed/,http://mastodon.yshi.org/@owls.rss"
+          #feed_names: "owlblog,microblog"
+          #feed_list: "https://godless-internets.org/feed/,http://mastodon.yshi.org/@owls.rss"
+          feed_list: "https://godless-internets.org/feed/"
