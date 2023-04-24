@@ -25,7 +25,6 @@ jobs:
           feed_list: "http://mastodon.yshi.org/@owls.rss"
           disable_item_validation: true
           disable_html_encoding: true
-          description_max_length: 80
           tag_post_pre_newline: true
           template: '- [$title]($url): $description $newline'
           item_exec: |
@@ -35,6 +34,13 @@ jobs:
               minute: 'numeric',
             });
             
+            // Strip HTML before doing truncation so we don't cut a tag in half and break the regex :V
             post.description = post.description
               .replace('</p>', ' ')
               .replace(/(<([^>]+)>)/gi, '');
+              
+            const maxLength = 80;
+            if (post.description.length > maxLength) {
+              post.description = post.description.slice(0, maxLength) + '...';
+            }
+            
