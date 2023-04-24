@@ -25,8 +25,9 @@ jobs:
           feed_list: "http://mastodon.yshi.org/@owls.rss"
           disable_item_validation: true
           disable_html_encoding: true
-          description_max_length: 80
-          template: '- [$title]($url): $description $newline'
+          description_max_length: 80\
+          tag_post_pre_newline: true
+          template: '- [$title]($url): $description'
           item_exec: |
             post.title = post.date.toLocaleString('en-US', { 
               weekday: 'short', 
@@ -34,4 +35,6 @@ jobs:
               minute: 'numeric',
             });
             
-            post.description = post.description.replace(/(<([^>]+)>)/ig, '');
+            post.description = post.description
+              .replace('</p>', ' ')
+              .replace(/(<([^>]+)>)/gi, '');
