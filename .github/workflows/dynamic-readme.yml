@@ -19,6 +19,7 @@ jobs:
           feed_list: "https://godless-internets.org/feed/"
           skip_commit: true
       - name: Pull in Fedi Posts
+        if: false
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           comment_tag_name: "FEDI-POST-LIST"
