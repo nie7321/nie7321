@@ -28,8 +28,10 @@ jobs:
           description_max_length: 80
           template: '- [$title]($url): $description $newline'
           item_exec: |
-            post.title = post.pubDate.toLocaleString('en-US', { 
+            post.title = post.date.toLocaleString('en-US', { 
               weekday: 'short', 
               hour: 'numeric', 
               minute: 'numeric',
             });
+            
+            post.description = post.description.replace(/(<([^>]+)>)/ig, '');
