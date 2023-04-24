@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-#### Posts
+#### Microblogs (Good Posts Guaranteed:tm:)
+<!-- FEDI-POST-LIST:START -->
+<!-- FEDI-POST-LIST:END -->
+
+#### Long-Form Posts
 <!-- BLOG-POST-LIST:START -->
 - [Abject Horrors from Phoenix](https://godless-internets.org/2023/03/25/abject-horrors-from-phoenix/)
 - [Visiting San Francisco](https://godless-internets.org/2023/03/11/visiting-san-francisco/)
