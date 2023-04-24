@@ -16,6 +16,12 @@ jobs:
       - name: Pull in Blog Posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          #feed_names: "owlblog,microblog"
-          #feed_list: "https://godless-internets.org/feed/,http://mastodon.yshi.org/@owls.rss"
           feed_list: "https://godless-internets.org/feed/"
+          skip_commit: true
+      - name: Pull in Fedi Posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          comment_tag_name: "FEDI-POST-LIST"
+          feed_list: "http://mastodon.yshi.org/@owls.rss"
+          disable_item_validation: true
+          template: '- [$title]($url): $description $newline'
