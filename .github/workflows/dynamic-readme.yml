@@ -28,7 +28,6 @@ jobs:
           description_max_length: 80
           template: '- [$title]($url): $description $newline'
           item_exec: |
-            console.log(post);
             post.title = post.pubDate.toLocaleString('en-US', { 
               weekday: 'short', 
               hour: 'numeric', 
