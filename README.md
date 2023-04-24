@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### Microblogs (Good Posts Guaranteed:tm:)
+#### Microblogs - *Good Posts Guaranteed™*
 <!-- FEDI-POST-LIST:START -->
 - [Mon 8:05 PM](https://mastodon.yshi.org/@owls/110255587658058175): the continued enshittification of 1password  
 - [Mon 2:58 PM](https://mastodon.yshi.org/@owls/110254378778869179): i hate writing performance self-reviews it&#39;s so weird to try and go from the... 
