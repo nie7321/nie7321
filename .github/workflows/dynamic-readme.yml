@@ -25,4 +25,6 @@ jobs:
           feed_list: "http://mastodon.yshi.org/@owls.rss"
           disable_item_validation: true
           template: '- [$title]($url): $description $newline'
-          item_exec: "post.title = new Date(post.pubDate).toLocaleString('en-US', { weekday: 'short', hour: 'numeric', minute: 'numeric' })"
+          item_exec: |
+            console.log(post);
+            post.title = new Date(post.pubDate).toLocaleString('en-US', { weekday: 'short', hour: 'numeric', minute: 'numeric' });
