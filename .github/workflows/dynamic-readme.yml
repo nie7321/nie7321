@@ -16,32 +16,5 @@ jobs:
       - name: Pull in Blog Posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          date_format: UTC:ddd, dd mmm yyyy h:MM:sso	
-          feed_list: "https://godless-internets.org/feed/"
-      - name: Pull in Fedi Posts
-        if: false
-        uses: nie7321/blog-post-workflow@master
-        with:
-          comment_tag_name: "FEDI-POST-LIST"
-          feed_list: "http://mastodon.yshi.org/@owls.rss"
-          disable_item_validation: true
-          disable_html_encoding: true
-          tag_post_pre_newline: true
-          template: '- [$title]($url): $description $newline'
-          item_exec: |
-            post.title = post.date.toLocaleString('en-US', { 
-              weekday: 'short', 
-              hour: 'numeric', 
-              minute: 'numeric',
-            });
-            
-            // Strip HTML before doing truncation so we don't cut a tag in half and break the regex :V
-            post.description = post.description
-              .replace('</p>', ' ')
-              .replace(/(<([^>]+)>)/gi, '');
-              
-            const maxLength = 80;
-            if (post.description.length > maxLength) {
-              post.description = post.description.slice(0, maxLength) + '...';
-            }
-            
+          disable_sort: true
+          feed_list: "https://godless-internets.org/feed/"           
