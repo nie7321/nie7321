@@ -16,6 +16,7 @@ jobs:
       - name: Pull in Blog Posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
+          date_format: UTC:ddd, dd mmm yyyy h:MM:sso	
           feed_list: "https://godless-internets.org/feed/"
       - name: Pull in Fedi Posts
         if: false
