@@ -6,8 +6,10 @@ On this account, you'll mostly find personal projects, talk repos, websites, and
 - [OpenAM Duo MFA Node](https://github.com/NUIT-ISO/duo-universal-prompt-auth-node), implementing their v4 SDK
 - [Dynamic Forms for Laravel](https://github.com/NIT-Administrative-Systems/dynamic-forms), implementing a self-hosted PHP back-end for the [formiojs](https://github.com/formio/formio.js/) builder & renderer
 
-#### Blog Posts
-You can find long-form posts, contact information, and links to other cool stuff on my websight, [owls of the godless internets](https://godless-internets.org). Here's the latest:
+#### What's New?
+You can find long-form posts, contact information, and links to other cool stuff on my websight, [owls of the godless internets](https://godless-internets.org).
+
+Here's the latest from my blog:
 
 <!-- BLOG-POST-LIST:START -->
 - [Abject Horrors from Phoenix](https://godless-internets.org/2023/03/25/abject-horrors-from-phoenix/)
@@ -16,6 +18,8 @@ You can find long-form posts, contact information, and links to other cool stuff
 - [An Evening at Oriole](https://godless-internets.org/2022/12/20/an-evening-at-oriole/)
 - [Using Linode Object Store with Mastodon](https://godless-internets.org/2022/12/20/using-linode-object-store-with-mastodon/)
 <!-- BLOG-POST-LIST:END -->
+
+I'm also active on the fediverse. You can follow me at [@owls@mastodon.yshi.org](https://mastodon.yshi.org/@owls)!
 
 <!-- Sadly, the glitch-soc (or mastodon vanilla?) RSS feed doesn't annotate or indicate when a post has a content warning. I don't really want CW'd things showing here... -->
 <!-- FEDI-POST-LIST:START -->
