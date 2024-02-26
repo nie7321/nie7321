@@ -20,7 +20,3 @@ Here's the latest from my blog:
 <!-- BLOG-POST-LIST:END -->
 
 I'm also active on the fediverse. You can follow me at [@owls@mastodon.yshi.org](https://mastodon.yshi.org/@owls)!
-
-<!-- Sadly, the glitch-soc (or mastodon vanilla?) RSS feed doesn't annotate or indicate when a post has a content warning. I don't really want CW'd things showing here... -->
-<!-- FEDI-POST-LIST:START -->
-<!-- FEDI-POST-LIST:END -->
