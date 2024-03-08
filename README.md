@@ -12,11 +12,11 @@ You can find long-form posts, contact information, and links to other cool stuff
 Here's the latest from my blog:
 
 <!-- BLOG-POST-LIST:START -->
+- [Atelier&amp;#039;s End of Winter Menu for 2024](https://godless-internets.org/2024/03/08/ateliers-end-of-winter-menu-for-2024)
 - [The Secret History of Omegle](https://godless-internets.org/2024/03/03/the-secret-history-of-omegle)
 - [Thoughts on Astro](https://godless-internets.org/2024/02/23/thoughts-on-astro)
 - [New Blog for 2024](https://godless-internets.org/2024/02/19/new-blog-for-2024)
 - [Review of the Fediverse](https://godless-internets.org/2023/07/04/review-of-the-fediverse)
-- [Abject Horrors from Phoenix](https://godless-internets.org/2023/03/25/abject-horrors-from-phoenix)
 <!-- BLOG-POST-LIST:END -->
 
 I'm also active on the fediverse. You can follow me at [@owls@mastodon.yshi.org](https://mastodon.yshi.org/@owls)!
