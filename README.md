@@ -6,6 +6,8 @@ On this account, you'll mostly find personal projects, talk repos, websites, and
 - [OpenAM Duo MFA Node](https://github.com/NUIT-ISO/duo-universal-prompt-auth-node), implementing their v4 SDK and powering *every single login at the whole university*
 - [Dynamic Forms for Laravel](https://github.com/NIT-Administrative-Systems/dynamic-forms), implementing a self-hosted PHP back-end for the [formiojs](https://github.com/formio/formio.js/) builder & renderer
 
+Whenever my team does something that is potentially-useful to other IT @ Northwestern teams, we try to package it up and publish it. Check out my pinned repositories for a few Northwestern-specific PHP & Laravel libraries.
+
 #### What's New?
 You can find long-form posts, contact information, and links to other cool stuff on my websight, [owls of the godless internets](https://godless-internets.org).
 
