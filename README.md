@@ -14,11 +14,11 @@ You can find long-form posts, contact information, and links to other cool stuff
 Here's the latest from my blog:
 
 <!-- BLOG-POST-LIST:START -->
+- [Welcome to Blaugust!](https://godless-internets.org/2024/08/01/welcome-to-blaugust)
 - [Initial Thoughts on FoundryVTT](https://godless-internets.org/2024/07/15/initial-thoughts-on-foundryvtt)
 - [Except from the Greydirge Chronicle](https://godless-internets.org/2024/06/23/except-from-the-greydirge-chronicle)
 - [Atelier and Oriole](https://godless-internets.org/2024/05/28/atelier-and-oriole)
 - [Vegetarian Tasting Menu at Indienne](https://godless-internets.org/2024/05/18/vegeterian-tasting-menu-at-indienne)
-- [Showing Off Chicago](https://godless-internets.org/2024/05/07/showing-off-chicago)
 <!-- BLOG-POST-LIST:END -->
 
 I'm also active on the fediverse. You can follow me at [@owls@mastodon.yshi.org](https://mastodon.yshi.org/@owls)!
