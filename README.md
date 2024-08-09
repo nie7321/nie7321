@@ -14,11 +14,11 @@ You can find long-form posts, contact information, and links to other cool stuff
 Here's the latest from my blog:
 
 <!-- BLOG-POST-LIST:START -->
+- [Flamin&amp;#039; Hot Spinach: Garrick](https://godless-internets.org/2024/08/09/flamin-hot-spinach-garrick)
 - [Steampunk Spinach: Robot without a Soul](https://godless-internets.org/2024/08/08/steampunk-spinach-robot-without-a-soul)
 - [Steampunk Spinach: a Scion of House Ghallanda](https://godless-internets.org/2024/08/06/steampunk-spinach-a-scion-of-house-ghallanda)
 - [Deep Rocks &amp;amp; Janthir Prep](https://godless-internets.org/2024/08/05/deep-rocks-janthir-prep)
 - [The Spinach Inquisition in Space](https://godless-internets.org/2024/08/04/the-spinach-inquisition-in-space)
-- [Busy in Paizo World](https://godless-internets.org/2024/08/03/busy-in-paizo-world)
 <!-- BLOG-POST-LIST:END -->
 
 I'm also active on the fediverse. You can follow me at [@owls@mastodon.yshi.org](https://mastodon.yshi.org/@owls)!
