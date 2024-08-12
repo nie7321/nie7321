@@ -14,11 +14,11 @@ You can find long-form posts, contact information, and links to other cool stuff
 Here's the latest from my blog:
 
 <!-- BLOG-POST-LIST:START -->
+- [Dynamic Forms for Laravel](https://godless-internets.org/2024/08/12/dynamic-forms-for-laravel)
 - [Grand Theft Orca](https://godless-internets.org/2024/08/11/grand-theft-orca)
 - [Digital Spinach: Paranoia Red](https://godless-internets.org/2024/08/10/digital-spinach-paranoia-red)
 - [Her Majesty&amp;#039;s Royal Health Department](https://godless-internets.org/2024/08/09/her-majestys-royal-health-department)
 - [Flamin&amp;#039; Hot Spinach: Garrick](https://godless-internets.org/2024/08/09/flamin-hot-spinach-garrick)
-- [Steampunk Spinach: Robot without a Soul](https://godless-internets.org/2024/08/08/steampunk-spinach-robot-without-a-soul)
 <!-- BLOG-POST-LIST:END -->
 
 I'm also active on the fediverse. You can follow me at [@owls@mastodon.yshi.org](https://mastodon.yshi.org/@owls)!
