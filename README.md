@@ -14,11 +14,11 @@ You can find long-form posts, contact information, and links to other cool stuff
 Here's the latest from my blog:
 
 <!-- BLOG-POST-LIST:START -->
+- [Favorite YouTube Channels](https://godless-internets.org/2024/08/17/favorite-youtube-channels)
 - [Time &amp;amp; Storytelling](https://godless-internets.org/2024/08/16/time-storytelling)
 - [Secrets of the Obscure Retrospective](https://godless-internets.org/2024/08/15/secrets-of-the-obscure-retrospective)
 - [Remembering Portal](https://godless-internets.org/2024/08/14/remembering-portal)
 - [The Horus Heresy](https://godless-internets.org/2024/08/13/the-horus-heresy)
-- [Dynamic Forms for Laravel](https://godless-internets.org/2024/08/12/dynamic-forms-for-laravel)
 <!-- BLOG-POST-LIST:END -->
 
 I'm also active on the fediverse. You can follow me at [@owls@mastodon.yshi.org](https://mastodon.yshi.org/@owls)!
