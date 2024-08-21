@@ -14,11 +14,11 @@ You can find long-form posts, contact information, and links to other cool stuff
 Here's the latest from my blog:
 
 <!-- BLOG-POST-LIST:START -->
+- [Day one of Janthir](https://godless-internets.org/2024/08/21/day-one-of-janthir)
 - [Beatiful Day in the [Janthir] Neighbourhood](https://godless-internets.org/2024/08/20/beatiful-day-in-the-janthir-neighbourhood)
 - [Why, the Lucky Stiff!](https://godless-internets.org/2024/08/19/why-the-lucky-stiff)
 - [Looking Forward to Janthir](https://godless-internets.org/2024/08/18/looking-forward-to-janthir)
 - [Favorite YouTube Channels](https://godless-internets.org/2024/08/17/favorite-youtube-channels)
-- [Time &amp;amp; Storytelling](https://godless-internets.org/2024/08/16/time-storytelling)
 <!-- BLOG-POST-LIST:END -->
 
 I'm also active on the fediverse. You can follow me at [@owls@mastodon.yshi.org](https://mastodon.yshi.org/@owls)!
