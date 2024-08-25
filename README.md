@@ -14,11 +14,11 @@ You can find long-form posts, contact information, and links to other cool stuff
 Here's the latest from my blog:
 
 <!-- BLOG-POST-LIST:START -->
+- [Where&amp;#039;d All the Forums Go?](https://godless-internets.org/2024/08/25/whered-all-the-forums-go)
 - [Swashbuckling in Foundry](https://godless-internets.org/2024/08/24/swashbuckling-in-foundry)
 - [Tyria &amp;amp; the Mists](https://godless-internets.org/2024/08/23/tyria-the-mists)
 - [Epic Conclusion to Janthir Wilds](https://godless-internets.org/2024/08/22/epic-conclusion-to-janthir-wilds)
 - [Day one of Janthir](https://godless-internets.org/2024/08/21/day-one-of-janthir)
-- [Beatiful Day in the [Janthir] Neighbourhood](https://godless-internets.org/2024/08/20/beatiful-day-in-the-janthir-neighbourhood)
 <!-- BLOG-POST-LIST:END -->
 
 I'm also active on the fediverse. You can follow me at [@owls@mastodon.yshi.org](https://mastodon.yshi.org/@owls)!
