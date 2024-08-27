@@ -14,11 +14,11 @@ You can find long-form posts, contact information, and links to other cool stuff
 Here's the latest from my blog:
 
 <!-- BLOG-POST-LIST:START -->
+- [The Legend of Corn-chan](https://godless-internets.org/2024/08/27/the-legend-of-corn-chan)
 - [The Rules Lawyer&amp;#039;s Updated FoundryVTT Series](https://godless-internets.org/2024/08/26/the-rules-laywers-updated-foundryvtt-series)
 - [Where&amp;#039;d All the Forums Go?](https://godless-internets.org/2024/08/25/whered-all-the-forums-go)
 - [Swashbuckling in Foundry](https://godless-internets.org/2024/08/24/swashbuckling-in-foundry)
 - [Tyria &amp;amp; the Mists](https://godless-internets.org/2024/08/23/tyria-the-mists)
-- [Epic Conclusion to Janthir Wilds](https://godless-internets.org/2024/08/22/epic-conclusion-to-janthir-wilds)
 <!-- BLOG-POST-LIST:END -->
 
 I'm also active on the fediverse. You can follow me at [@owls@mastodon.yshi.org](https://mastodon.yshi.org/@owls)!
