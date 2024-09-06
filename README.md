@@ -14,11 +14,11 @@ You can find long-form posts, contact information, and links to other cool stuff
 Here's the latest from my blog:
 
 <!-- BLOG-POST-LIST:START -->
+- [Guide to Chicago Tasting Menus](https://godless-internets.org/2024/09/06/guide-to-chicago-tasting-menus)
 - [Entrench Trait in FoundryVTT](https://godless-internets.org/2024/09/01/entrench-trait-in-foundryvtt)
 - [Blaugust 2024 Retrospective](https://godless-internets.org/2024/08/31/blaugust-2024-retrospective)
 - [The Game I Want to Play &lpar;&amp;amp; Why Project Zutto has Stalled&rpar;](https://godless-internets.org/2024/08/30/the-game-i-want-to-play-why-project-zutto-has-stalled)
 - [What&amp;#039;s a Wangjangler?](https://godless-internets.org/2024/08/29/whats-a-wangjangler)
-- [Thattu&amp;#039;s New Supper Club](https://godless-internets.org/2024/08/28/thattus-new-supper-club)
 <!-- BLOG-POST-LIST:END -->
 
 I'm also active on the fediverse. You can follow me at [@owls@mastodon.yshi.org](https://mastodon.yshi.org/@owls)!
