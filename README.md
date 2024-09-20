@@ -14,11 +14,11 @@ You can find long-form posts, contact information, and links to other cool stuff
 Here's the latest from my blog:
 
 <!-- BLOG-POST-LIST:START -->
+- [Super-fun Certificate Surprise](https://godless-internets.org/2024/09/20/super-fun-certificate-surprise)
 - [Space Marine 2](https://godless-internets.org/2024/09/15/space-marine-2)
 - [Fat Bear Week 2024](https://godless-internets.org/2024/09/08/fat-bear-week-2024)
 - [Guide to Chicago Tasting Menus](https://godless-internets.org/2024/09/06/guide-to-chicago-tasting-menus)
 - [Entrench Trait in FoundryVTT](https://godless-internets.org/2024/09/01/entrench-trait-in-foundryvtt)
-- [Blaugust 2024 Retrospective](https://godless-internets.org/2024/08/31/blaugust-2024-retrospective)
 <!-- BLOG-POST-LIST:END -->
 
 I'm also active on the fediverse. You can follow me at [@owls@mastodon.yshi.org](https://mastodon.yshi.org/@owls)!
