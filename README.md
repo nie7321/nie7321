@@ -14,11 +14,11 @@ You can find long-form posts, contact information, and links to other cool stuff
 Here's the latest from my blog:
 
 <!-- BLOG-POST-LIST:START -->
+- [Mechabellum](https://godless-internets.org/2024/09/30/mechabellum)
 - [Atelier &amp;amp; Thattu at Home](https://godless-internets.org/2024/09/25/atelier-thattu-at-home)
 - [Super-fun Certificate Surprise](https://godless-internets.org/2024/09/20/super-fun-certificate-surprise)
 - [Space Marine 2](https://godless-internets.org/2024/09/15/space-marine-2)
 - [Fat Bear Week 2024](https://godless-internets.org/2024/09/08/fat-bear-week-2024)
-- [Guide to Chicago Tasting Menus](https://godless-internets.org/2024/09/06/guide-to-chicago-tasting-menus)
 <!-- BLOG-POST-LIST:END -->
 
 I'm also active on the fediverse. You can follow me at [@owls@mastodon.yshi.org](https://mastodon.yshi.org/@owls)!
