@@ -14,11 +14,11 @@ You can find long-form posts, contact information, and links to other cool stuff
 Here's the latest from my blog:
 
 <!-- BLOG-POST-LIST:START -->
+- [Cariño, a South American Rising Star](https://godless-internets.org/2024/10/01/carino-a-south-american-rising-star)
 - [Fat Bear Drama](https://godless-internets.org/2024/10/01/fat-bear-drama)
 - [Mechabellum](https://godless-internets.org/2024/09/30/mechabellum)
 - [Atelier &amp;amp; Thattu at Home](https://godless-internets.org/2024/09/25/atelier-thattu-at-home)
 - [Super-fun Certificate Surprise](https://godless-internets.org/2024/09/20/super-fun-certificate-surprise)
-- [Space Marine 2](https://godless-internets.org/2024/09/15/space-marine-2)
 <!-- BLOG-POST-LIST:END -->
 
 I'm also active on the fediverse. You can follow me at [@owls@mastodon.yshi.org](https://mastodon.yshi.org/@owls)!
