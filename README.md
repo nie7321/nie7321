@@ -14,11 +14,11 @@ You can find long-form posts, contact information, and links to other cool stuff
 Here's the latest from my blog:
 
 <!-- BLOG-POST-LIST:START -->
+- [Alinea&amp;#039;s Tribute to Charlie Trotter](https://godless-internets.org/2024/10/22/alineas-tribute-to-charlie-trotter)
 - [Indienne, but Meatier](https://godless-internets.org/2024/10/10/indienne-but-meatier)
 - [Atelier Fall Menu &amp;amp; Sunday Supper Club](https://godless-internets.org/2024/10/07/atelier-fall-menu-sunday-supper-club)
 - [Fat Bear Week 2024 Contestants](https://godless-internets.org/2024/10/01/fat-bear-week-2024-contestants)
 - [Cariño, a South American Rising Star](https://godless-internets.org/2024/10/01/carino-a-south-american-rising-star)
-- [Fat Bear Drama](https://godless-internets.org/2024/10/01/fat-bear-drama)
 <!-- BLOG-POST-LIST:END -->
 
 I'm also active on the fediverse. You can follow me at [@owls@mastodon.yshi.org](https://mastodon.yshi.org/@owls)!
