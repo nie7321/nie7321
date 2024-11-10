@@ -14,11 +14,11 @@ You can find long-form posts, contact information, and links to other cool stuff
 Here's the latest from my blog:
 
 <!-- BLOG-POST-LIST:START -->
+- [Initial Thoughs on Herd Pro](https://godless-internets.org/2024/11/10/initial-thoughs-on-herd-pro)
 - [Building Khora in Mathframe](https://godless-internets.org/2024/11/01/building-khora-in-mathframe)
 - [Alinea&amp;#039;s Tribute to Charlie Trotter](https://godless-internets.org/2024/10/22/alineas-tribute-to-charlie-trotter)
 - [Indienne, but Meatier](https://godless-internets.org/2024/10/10/indienne-but-meatier)
 - [Atelier Fall Menu &amp;amp; Sunday Supper Club](https://godless-internets.org/2024/10/07/atelier-fall-menu-sunday-supper-club)
-- [Fat Bear Week 2024 Contestants](https://godless-internets.org/2024/10/01/fat-bear-week-2024-contestants)
 <!-- BLOG-POST-LIST:END -->
 
 I'm also active on the fediverse. You can follow me at [@owls@mastodon.yshi.org](https://mastodon.yshi.org/@owls)!
