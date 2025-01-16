@@ -14,11 +14,11 @@ You can find long-form posts, contact information, and links to other cool stuff
 Here's the latest from my blog:
 
 <!-- BLOG-POST-LIST:START -->
+- [The Wandslinger in A&amp;#039;merikuh](https://godless-internets.org/2025/01/16/the-wandslinger-in-amerikuh)
 - [Short Fiction from Tumblr](https://godless-internets.org/2025/01/14/short-fiction-from-tumblr)
 - [Khora: Magistar vs. Sancti Magistar](https://godless-internets.org/2024/12/01/khora-magistar-vs-sancti-magistar)
 - [Thattu for October &amp;amp; November](https://godless-internets.org/2024/11/27/thattu-for-october-november)
 - [Atelier in Late Fall](https://godless-internets.org/2024/11/26/atelier-in-late-fall)
-- [Malort &amp;amp; Omakase](https://godless-internets.org/2024/11/19/malort-omakase)
 <!-- BLOG-POST-LIST:END -->
 
 I'm also active on the fediverse. You can follow me at [@owls@mastodon.yshi.org](https://mastodon.yshi.org/@owls)!
