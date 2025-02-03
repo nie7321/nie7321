@@ -21,4 +21,4 @@ Here's the latest from my blog:
 - [Thattu for October &amp;amp; November](https://godless-internets.org/2024/11/27/thattu-for-october-november)
 <!-- BLOG-POST-LIST:END -->
 
-I'm also active on the fediverse. You can follow me at [@owls@mastodon.yshi.org](https://mastodon.yshi.org/@owls)!
+I'm also active on the fediverse. You can follow me at [@owls@yshi.org](https://mastodon.yshi.org/@owls)!
