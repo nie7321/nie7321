@@ -14,11 +14,11 @@ You can find long-form posts, contact information, and links to other cool stuff
 Here's the latest from my blog:
 
 <!-- BLOG-POST-LIST:START -->
+- [Synthesized String Properties in Livewire](https://godless-internets.org/2025/02/17/synthesized-string-properties-in-livewire)
 - [Announcing Kitto²](https://godless-internets.org/2025/02/09/announcing-kitto2)
 - [QuillJS &amp;amp; Alpine](https://godless-internets.org/2025/01/25/quilljs-alpine)
 - [The Wandslinger in A&amp;#039;merikuh](https://godless-internets.org/2025/01/16/the-wandslinger-in-amerikuh)
 - [Short Fiction from Tumblr](https://godless-internets.org/2025/01/14/short-fiction-from-tumblr)
-- [Khora: Magistar vs. Sancti Magistar](https://godless-internets.org/2024/12/01/khora-magistar-vs-sancti-magistar)
 <!-- BLOG-POST-LIST:END -->
 
 I'm also active on the fediverse. You can follow me at [@owls@yshi.org](https://mastodon.yshi.org/@owls)!
