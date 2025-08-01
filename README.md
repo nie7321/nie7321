@@ -14,11 +14,11 @@ You can find long-form posts, contact information, and links to other cool stuff
 Here's the latest from my blog:
 
 <!-- BLOG-POST-LIST:START -->
+- [Blaugust 2025 OPML](https://godless-internets.org/2025/08/01/blaugust-2025-opml)
 - [Blaugust 2025 is Upon Us](https://godless-internets.org/2025/08/01/blaugust-2025-is-upon-us)
 - [Synthesized String Properties in Livewire](https://godless-internets.org/2025/02/17/synthesized-string-properties-in-livewire)
 - [Announcing Kitto²](https://godless-internets.org/2025/02/09/announcing-kitto2)
 - [QuillJS &amp;amp; Alpine](https://godless-internets.org/2025/01/25/quilljs-alpine)
-- [The Wandslinger in A&amp;#039;merikuh](https://godless-internets.org/2025/01/16/the-wandslinger-in-amerikuh)
 <!-- BLOG-POST-LIST:END -->
 
 I'm also active on the fediverse. You can follow me at [@owls@yshi.org](https://mastodon.yshi.org/@owls)!
