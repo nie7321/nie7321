@@ -14,11 +14,11 @@ You can find long-form posts, contact information, and links to other cool stuff
 Here's the latest from my blog:
 
 <!-- BLOG-POST-LIST:START -->
+- [Laminations &amp;amp; Ducks at Obélix](https://godless-internets.org/2025/08/04/laminations-ducks-at-obelix)
 - [Non-Blaugust Things to Check Out](https://godless-internets.org/2025/08/03/non-blaugust-things-to-check-out)
 - [AJI Omakase](https://godless-internets.org/2025/08/02/aji-omakase)
 - [Blaugust 2025 OPML](https://godless-internets.org/2025/08/01/blaugust-2025-opml)
 - [Blaugust 2025 is Upon Us](https://godless-internets.org/2025/08/01/blaugust-2025-is-upon-us)
-- [Synthesized String Properties in Livewire](https://godless-internets.org/2025/02/17/synthesized-string-properties-in-livewire)
 <!-- BLOG-POST-LIST:END -->
 
 I'm also active on the fediverse. You can follow me at [@owls@yshi.org](https://mastodon.yshi.org/@owls)!
