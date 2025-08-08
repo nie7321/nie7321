@@ -14,11 +14,11 @@ You can find long-form posts, contact information, and links to other cool stuff
 Here's the latest from my blog:
 
 <!-- BLOG-POST-LIST:START -->
+- [Afternoon Tea at the Drake&amp;#039;s Palm Court](https://godless-internets.org/2025/08/08/afternoon-tea-at-the-drakes-palm-court)
 - [Beer at Moody Tongue](https://godless-internets.org/2025/08/07/beer-at-moody-tongue)
 - [Visiting the Halls Valhalla Repeatedly](https://godless-internets.org/2025/08/06/visiting-the-halls-valhalla-repeatedly)
 - [Spring at Sepia](https://godless-internets.org/2025/08/05/spring-at-sepia)
 - [Laminations &amp;amp; Ducks at Obélix](https://godless-internets.org/2025/08/04/laminations-ducks-at-obelix)
-- [Non-Blaugust Things to Check Out](https://godless-internets.org/2025/08/03/non-blaugust-things-to-check-out)
 <!-- BLOG-POST-LIST:END -->
 
 I'm also active on the fediverse. You can follow me at [@owls@yshi.org](https://mastodon.yshi.org/@owls)!
