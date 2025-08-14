@@ -14,11 +14,11 @@ You can find long-form posts, contact information, and links to other cool stuff
 Here's the latest from my blog:
 
 <!-- BLOG-POST-LIST:START -->
+- [Legendary Sales](https://godless-internets.org/2025/08/14/legendary-sales)
 - [Bayan Ko&amp;#039;s Filipino/Cuban Fusion](https://godless-internets.org/2025/08/13/bayan-kos-filipinocuban-fusion)
 - [Celebrating National Hotdog Day with an Abomination](https://godless-internets.org/2025/08/12/celebrating-national-hotdog-day-with-an-abomination)
 - [Proxi&amp;#039;s Happy Hour](https://godless-internets.org/2025/08/11/proxis-happy-hour)
 - [Lapo&amp;#039;s](https://godless-internets.org/2025/08/10/lapos)
-- [Memories of NaNoWriMo](https://godless-internets.org/2025/08/09/memories-of-nanowrimo)
 <!-- BLOG-POST-LIST:END -->
 
 I'm also active on the fediverse. You can follow me at [@owls@yshi.org](https://mastodon.yshi.org/@owls)!
