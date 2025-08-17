@@ -14,11 +14,11 @@ You can find long-form posts, contact information, and links to other cool stuff
 Here's the latest from my blog:
 
 <!-- BLOG-POST-LIST:START -->
+- [Coming Around to Visions of Eternity](https://godless-internets.org/2025/08/17/coming-around-to-visions-of-eternity)
 - [Bearwatching Season is Upon Us](https://godless-internets.org/2025/08/16/bearwatching-season-is-upon-us)
 - [The Coach House](https://godless-internets.org/2025/08/15/the-coach-house)
 - [Legendary Sales](https://godless-internets.org/2025/08/14/legendary-sales)
 - [Bayan Ko&amp;#039;s Filipino/Cuban Fusion](https://godless-internets.org/2025/08/13/bayan-kos-filipinocuban-fusion)
-- [Celebrating National Hotdog Day with an Abomination](https://godless-internets.org/2025/08/12/celebrating-national-hotdog-day-with-an-abomination)
 <!-- BLOG-POST-LIST:END -->
 
 I'm also active on the fediverse. You can follow me at [@owls@yshi.org](https://mastodon.yshi.org/@owls)!
