@@ -14,11 +14,11 @@ You can find long-form posts, contact information, and links to other cool stuff
 Here's the latest from my blog:
 
 <!-- BLOG-POST-LIST:START -->
+- [Whyday 16](https://godless-internets.org/2025/08/19/whyday-16)
 - [Low Stakes Hot Takes for Blaugust](https://godless-internets.org/2025/08/18/low-stakes-hot-takes-for-blaugust)
 - [Coming Around to Visions of Eternity](https://godless-internets.org/2025/08/17/coming-around-to-visions-of-eternity)
 - [Bearwatching Season is Upon Us](https://godless-internets.org/2025/08/16/bearwatching-season-is-upon-us)
 - [The Coach House](https://godless-internets.org/2025/08/15/the-coach-house)
-- [Legendary Sales](https://godless-internets.org/2025/08/14/legendary-sales)
 <!-- BLOG-POST-LIST:END -->
 
 I'm also active on the fediverse. You can follow me at [@owls@yshi.org](https://mastodon.yshi.org/@owls)!
