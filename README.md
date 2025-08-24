@@ -14,11 +14,11 @@ You can find long-form posts, contact information, and links to other cool stuff
 Here's the latest from my blog:
 
 <!-- BLOG-POST-LIST:START -->
+- [Tasting Armenia](https://godless-internets.org/2025/08/24/tasting-armenia)
 - [Items Modifying Stats in FoundryVTT](https://godless-internets.org/2025/08/23/items-modifying-stats-in-foundryvtt)
 - [1-Star Dungeon: Cultivars of Nhimbaloth](https://godless-internets.org/2025/08/22/1-star-dungeon-cultivars-of-nhimbaloth)
 - [1-Star Dungeon: Amuse-Bouche](https://godless-internets.org/2025/08/22/1-star-dungeon-amuse-bouche)
 - [Dramatis Personae of 1-Star Dungeon](https://godless-internets.org/2025/08/21/dramatis-personae-of-1-star-dungeon)
-- [Whyday 16](https://godless-internets.org/2025/08/19/whyday-16)
 <!-- BLOG-POST-LIST:END -->
 
 I'm also active on the fediverse. You can follow me at [@owls@yshi.org](https://mastodon.yshi.org/@owls)!
