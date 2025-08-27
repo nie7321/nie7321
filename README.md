@@ -14,11 +14,11 @@ You can find long-form posts, contact information, and links to other cool stuff
 Here's the latest from my blog:
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenTofu Gotcha: Encryption Key Names &amp;amp; Remote State](https://godless-internets.org/2025/08/27/opentofu-gotcha-encryption-key-names-remote-state)
 - [Assured Healing in Pathfinder](https://godless-internets.org/2025/08/26/assured-healing-in-pathfinder)
 - [Pathfinder 2e for a DnD 5e Player](https://godless-internets.org/2025/08/25/pathfinder-2e-for-a-dnd-5e-player)
 - [Tasting Armenia](https://godless-internets.org/2025/08/24/tasting-armenia)
 - [Items Modifying Stats in FoundryVTT](https://godless-internets.org/2025/08/23/items-modifying-stats-in-foundryvtt)
-- [1-Star Dungeon: Cultivars of Nhimbaloth](https://godless-internets.org/2025/08/22/1-star-dungeon-cultivars-of-nhimbaloth)
 <!-- BLOG-POST-LIST:END -->
 
 I'm also active on the fediverse. You can follow me at [@owls@yshi.org](https://mastodon.yshi.org/@owls)!
