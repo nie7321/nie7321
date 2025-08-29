@@ -14,11 +14,11 @@ You can find long-form posts, contact information, and links to other cool stuff
 Here's the latest from my blog:
 
 <!-- BLOG-POST-LIST:START -->
+- [The T6 Material Farm](https://godless-internets.org/2025/08/29/the-t6-material-farm)
 - [ZeWei and Laghari Portals](https://godless-internets.org/2025/08/28/zewei-and-laghari-portals)
 - [OpenTofu Gotcha: Encryption Key Names &amp;amp; Remote State](https://godless-internets.org/2025/08/27/opentofu-gotcha-encryption-key-names-remote-state)
 - [Assured Healing in Pathfinder](https://godless-internets.org/2025/08/26/assured-healing-in-pathfinder)
 - [Pathfinder 2e for a DnD 5e Player](https://godless-internets.org/2025/08/25/pathfinder-2e-for-a-dnd-5e-player)
-- [Tasting Armenia](https://godless-internets.org/2025/08/24/tasting-armenia)
 <!-- BLOG-POST-LIST:END -->
 
 I'm also active on the fediverse. You can follow me at [@owls@yshi.org](https://mastodon.yshi.org/@owls)!
