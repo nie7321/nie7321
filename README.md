@@ -14,11 +14,11 @@ You can find long-form posts, contact information, and links to other cool stuff
 Here's the latest from my blog:
 
 <!-- BLOG-POST-LIST:START -->
+- [Newbie Guide to Baro Ki&amp;#039;Teer](https://godless-internets.org/2025/10/17/newbie-guide-to-baro-kiteer)
 - [Fat Bear Week 2025 is Here](https://godless-internets.org/2025/09/23/fat-bear-week-2025-is-here)
 - [Fat Bear Week 2025 Intro &amp;amp; Schedule](https://godless-internets.org/2025/09/17/fat-bear-week-2025-intro-schedule)
 - [Mumble for Raids in 2025](https://godless-internets.org/2025/09/05/mumble-for-raids-in-2025)
 - [So Ends Another Festival of Blogging](https://godless-internets.org/2025/08/31/so-ends-another-festival-of-blogging)
-- [Arghunn the Annihilator&amp;#039;s Relationship Whiplast](https://godless-internets.org/2025/08/30/arghunn-the-annihilators-relationship-whiplast)
 <!-- BLOG-POST-LIST:END -->
 
 I'm also active on the fediverse. You can follow me at [@owls@yshi.org](https://mastodon.yshi.org/@owls)!
