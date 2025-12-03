@@ -14,11 +14,11 @@ You can find long-form posts, contact information, and links to other cool stuff
 Here's the latest from my blog:
 
 <!-- BLOG-POST-LIST:START -->
+- [Soulframe Preludes 12](https://godless-internets.org/2025/12/03/soulframe-preludes-12)
 - [Baja Blast Pie](https://godless-internets.org/2025/11/08/baja-blast-pie)
 - [Visions of Eternity Wishlist](https://godless-internets.org/2025/10/26/visions-of-eternity-wishlist)
 - [Newbie Guide to Baro Ki&amp;#039;Teer](https://godless-internets.org/2025/10/17/newbie-guide-to-baro-kiteer)
 - [Fat Bear Week 2025 is Here](https://godless-internets.org/2025/09/23/fat-bear-week-2025-is-here)
-- [Fat Bear Week 2025 Intro &amp;amp; Schedule](https://godless-internets.org/2025/09/17/fat-bear-week-2025-intro-schedule)
 <!-- BLOG-POST-LIST:END -->
 
 I'm also active on the fediverse. You can follow me at [@owls@yshi.org](https://mastodon.yshi.org/@owls)!
