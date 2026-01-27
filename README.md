@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm the lead solution architect for Northwestern's in-house software development group. I'm a big PHP & Laravel shill, but I also work in JS, Java, HCL, and Ruby.
+I'm the lead solution architect for Northwestern's in-house software development group. I'm a big PHP shill, but I also work in JS, Java, HCL, and Ruby.
 
 On this account, you'll mostly find personal projects, talk repos, websites, and other small assorted projects. I've got a couple packages you might find interesting under the university orgs:
 
