@@ -14,11 +14,11 @@ You can find long-form posts, contact information, and links to other cool stuff
 Here's the latest from my blog:
 
 <!-- BLOG-POST-LIST:START -->
+- [Blaugust 2026 Approaches](https://godless-internets.org/2026/07/15/blaugust-2026-approaches)
 - [The Old Peace &amp;amp; Beyond](https://godless-internets.org/2026/01/04/the-old-peace-beyond)
 - [Soulframe Preludes 12](https://godless-internets.org/2025/12/03/soulframe-preludes-12)
 - [Baja Blast Pie](https://godless-internets.org/2025/11/08/baja-blast-pie)
 - [Visions of Eternity Wishlist](https://godless-internets.org/2025/10/26/visions-of-eternity-wishlist)
-- [Newbie Guide to Baro Ki&amp;#039;Teer](https://godless-internets.org/2025/10/17/newbie-guide-to-baro-kiteer)
 <!-- BLOG-POST-LIST:END -->
 
 I'm also active on the fediverse. You can follow me at [@owls@yshi.org](https://mastodon.yshi.org/@owls)!
