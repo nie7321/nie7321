@@ -14,11 +14,11 @@ You can find long-form posts, contact information, and links to other cool stuff
 Here's the latest from my blog:
 
 <!-- BLOG-POST-LIST:START -->
+- [Exploring the City of Guk](https://godless-internets.org/2026/08/02/exploring-the-city-of-guk)
 - [Starting Everquest Legends](https://godless-internets.org/2026/08/01/starting-everquest-legends)
 - [Everquest Legends Prep](https://godless-internets.org/2026/07/25/everquest-legends-prep)
 - [The Blaugust 2026 Post Firehose](https://godless-internets.org/2026/07/19/the-blaugust-2026-post-firehose)
 - [Blaugust 2026 Approaches](https://godless-internets.org/2026/07/15/blaugust-2026-approaches)
-- [The Old Peace &amp;amp; Beyond](https://godless-internets.org/2026/01/04/the-old-peace-beyond)
 <!-- BLOG-POST-LIST:END -->
 
 I'm also active on the fediverse. You can follow me at [@owls@yshi.org](https://mastodon.yshi.org/@owls)!
