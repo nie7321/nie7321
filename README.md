@@ -14,11 +14,11 @@ You can find long-form posts, contact information, and links to other cool stuff
 Here's the latest from my blog:
 
 <!-- BLOG-POST-LIST:START -->
+- [Ding! Level 50](https://godless-internets.org/2026/08/07/ding-level-50)
 - [Blaugust Feed Readers: Don&amp;#039;t Forget These Blogs!](https://godless-internets.org/2026/08/06/blaugust-feed-readers-dont-forget-these-blogs)
 - [Chicago&amp;#039;s French Resturants &amp;amp; Beaujolais](https://godless-internets.org/2026/08/05/chicagos-french-resturants-beaujolais)
 - [Stargate Atlantis in the Hole](https://godless-internets.org/2026/08/04/stargate-atlantis-in-the-hole)
 - [Into the Hole](https://godless-internets.org/2026/08/03/into-the-hole)
-- [Exploring the City of Guk](https://godless-internets.org/2026/08/02/exploring-the-city-of-guk)
 <!-- BLOG-POST-LIST:END -->
 
 I'm also active on the fediverse. You can follow me at [@owls@yshi.org](https://mastodon.yshi.org/@owls)!
