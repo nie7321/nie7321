@@ -14,11 +14,11 @@ You can find long-form posts, contact information, and links to other cool stuff
 Here's the latest from my blog:
 
 <!-- BLOG-POST-LIST:START -->
+- [I&amp;#039;m Hate-ing It](https://godless-internets.org/2026/08/09/im-hate-ing-it)
 - [Singing Sword Eggs](https://godless-internets.org/2026/08/08/singing-sword-eggs)
 - [Ding! Level 50](https://godless-internets.org/2026/08/07/ding-level-50)
 - [Blaugust Feed Readers: Don&amp;#039;t Forget These Blogs!](https://godless-internets.org/2026/08/06/blaugust-feed-readers-dont-forget-these-blogs)
 - [Chicago&amp;#039;s French Resturants &amp;amp; Beaujolais](https://godless-internets.org/2026/08/05/chicagos-french-resturants-beaujolais)
-- [Stargate Atlantis in the Hole](https://godless-internets.org/2026/08/04/stargate-atlantis-in-the-hole)
 <!-- BLOG-POST-LIST:END -->
 
 I'm also active on the fediverse. You can follow me at [@owls@yshi.org](https://mastodon.yshi.org/@owls)!
