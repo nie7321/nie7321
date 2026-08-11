@@ -14,11 +14,11 @@ You can find long-form posts, contact information, and links to other cool stuff
 Here's the latest from my blog:
 
 <!-- BLOG-POST-LIST:START -->
+- [The Wall of Bees, Craft to Exile, and the Impending Fables &amp;amp; Frontiers Warframe Update](https://godless-internets.org/2026/08/11/the-wall-of-bees-craft-to-exile-and-the-impending-fables-frontiers-warframe-update)
 - [Hate Gives Way to Fear](https://godless-internets.org/2026/08/10/hate-gives-way-to-fear)
 - [I&amp;#039;m Hate-ing It](https://godless-internets.org/2026/08/09/im-hate-ing-it)
 - [Singing Sword Eggs](https://godless-internets.org/2026/08/08/singing-sword-eggs)
 - [Ding! Level 50](https://godless-internets.org/2026/08/07/ding-level-50)
-- [Blaugust Feed Readers: Don&amp;#039;t Forget These Blogs!](https://godless-internets.org/2026/08/06/blaugust-feed-readers-dont-forget-these-blogs)
 <!-- BLOG-POST-LIST:END -->
 
 I'm also active on the fediverse. You can follow me at [@owls@yshi.org](https://mastodon.yshi.org/@owls)!
