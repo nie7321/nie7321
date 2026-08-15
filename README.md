@@ -14,11 +14,11 @@ You can find long-form posts, contact information, and links to other cool stuff
 Here's the latest from my blog:
 
 <!-- BLOG-POST-LIST:START -->
+- [FoundryVTT Major Version Bump Blues](https://godless-internets.org/2026/08/14/foundryvtt-major-version-bump-blues)
 - [Fables &amp;amp; Frontiers](https://godless-internets.org/2026/08/13/fables-frontiers)
 - [Craft to Exile &amp;amp; Path of Exile](https://godless-internets.org/2026/08/12/craft-to-exile-path-of-exile)
 - [The Wall of Bees, Craft to Exile, and the Impending Fables &amp;amp; Frontiers Warframe Update](https://godless-internets.org/2026/08/11/the-wall-of-bees-craft-to-exile-and-the-impending-fables-frontiers-warframe-update)
 - [Hate Gives Way to Fear](https://godless-internets.org/2026/08/10/hate-gives-way-to-fear)
-- [I&amp;#039;m Hate-ing It](https://godless-internets.org/2026/08/09/im-hate-ing-it)
 <!-- BLOG-POST-LIST:END -->
 
 I'm also active on the fediverse. You can follow me at [@owls@yshi.org](https://mastodon.yshi.org/@owls)!
