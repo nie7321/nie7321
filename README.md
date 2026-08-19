@@ -14,11 +14,11 @@ You can find long-form posts, contact information, and links to other cool stuff
 Here's the latest from my blog:
 
 <!-- BLOG-POST-LIST:START -->
+- [For Whyday, Have Fun on the Computer](https://godless-internets.org/2026/08/19/for-whyday-have-fun-on-the-computer)
 - [Appreciating Some Warframe Creators](https://godless-internets.org/2026/08/18/appreciating-some-warframe-creators)
 - [Deep Rock Space Beach Party](https://godless-internets.org/2026/08/17/deep-rock-space-beach-party)
 - [The Archwing](https://godless-internets.org/2026/08/16/the-archwing)
 - [Newbie Guide to Warframe&amp;#039;s Parasocialism](https://godless-internets.org/2026/08/15/newbie-guide-to-warframes-parasocialism)
-- [FoundryVTT Major Version Bump Blues](https://godless-internets.org/2026/08/14/foundryvtt-major-version-bump-blues)
 <!-- BLOG-POST-LIST:END -->
 
 I'm also active on the fediverse. You can follow me at [@owls@yshi.org](https://mastodon.yshi.org/@owls)!
