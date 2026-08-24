@@ -14,11 +14,11 @@ You can find long-form posts, contact information, and links to other cool stuff
 Here's the latest from my blog:
 
 <!-- BLOG-POST-LIST:START -->
+- [Webmentions Look Pretty Complicated](https://godless-internets.org/2026/08/23/webmentions-look-pretty-complicated)
 - [Achievement Unlocked: Chicago Gourmand](https://godless-internets.org/2026/08/22/achivement-unlocked-chicago-gourmand)
 - [Topolobampo](https://godless-internets.org/2026/08/21/topolobampo)
 - [Brooches &amp;amp; EQL in the Long Run](https://godless-internets.org/2026/08/20/brooches-eql-in-the-long-run)
 - [For Whyday, Have Fun on the Computer](https://godless-internets.org/2026/08/19/for-whyday-have-fun-on-the-computer)
-- [Appreciating Some Warframe Creators](https://godless-internets.org/2026/08/18/appreciating-some-warframe-creators)
 <!-- BLOG-POST-LIST:END -->
 
 I'm also active on the fediverse. You can follow me at [@owls@yshi.org](https://mastodon.yshi.org/@owls)!
