@@ -14,11 +14,11 @@ You can find long-form posts, contact information, and links to other cool stuff
 Here's the latest from my blog:
 
 <!-- BLOG-POST-LIST:START -->
+- [Warframe &amp;amp; Game Preservation](https://godless-internets.org/2026/08/26/warframe-game-preservation)
 - [Fearless and Full of Hot Air](https://godless-internets.org/2026/08/25/fearless-and-full-of-hot-air)
 - [Back Up Your Foundry Module Purchases](https://godless-internets.org/2026/08/24/back-up-your-foundry-module-purchases)
 - [Webmentions Look Pretty Complicated](https://godless-internets.org/2026/08/23/webmentions-look-pretty-complicated)
 - [Achievement Unlocked: Chicago Gourmand](https://godless-internets.org/2026/08/22/achivement-unlocked-chicago-gourmand)
-- [Topolobampo](https://godless-internets.org/2026/08/21/topolobampo)
 <!-- BLOG-POST-LIST:END -->
 
 I'm also active on the fediverse. You can follow me at [@owls@yshi.org](https://mastodon.yshi.org/@owls)!
