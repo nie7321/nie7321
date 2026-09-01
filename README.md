@@ -14,11 +14,11 @@ You can find long-form posts, contact information, and links to other cool stuff
 Here's the latest from my blog:
 
 <!-- BLOG-POST-LIST:START -->
+- [The Sun Sets On Blaugust 2026](https://godless-internets.org/2026/08/31/the-sun-sets-on-blaugust-2026)
+- [Handrolls at Noriko](https://godless-internets.org/2026/08/31/handrolls-at-noriko)
 - [Civilizing the Untamed Wilds of Bitcraft](https://godless-internets.org/2026/08/30/civilizing-the-untamed-wilds-of-bitcraft)
 - [One-Two Kickstarter MMO Punch](https://godless-internets.org/2026/08/29/one-two-kickstarter-mmo-punch)
 - [Memories of Valheim Early Access](https://godless-internets.org/2026/08/28/memories-of-valheim-early-access)
-- [Critique of Microformats2](https://godless-internets.org/2026/08/27/critique-of-microformats2)
-- [Warframe &amp;amp; Game Preservation](https://godless-internets.org/2026/08/26/warframe-game-preservation)
 <!-- BLOG-POST-LIST:END -->
 
 I'm also active on the fediverse. You can follow me at [@owls@yshi.org](https://mastodon.yshi.org/@owls)!
